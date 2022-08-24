@@ -1,10 +1,9 @@
 #title{
-    color: rgb(102,0,36);
+    color: white;
 }
 body {
     
-    background-image: 
-    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
     font-family: Verdana;
     text-align: center;
         }
@@ -32,7 +31,8 @@ form{
 }
 h1, p{
     margin: auto;
-    font-family: 'Times New Roman'
+    font-family: 'Times New Roman';
+    color: white;
 }
 
 h1{
@@ -56,7 +56,4 @@ body {
     height: 6vh;
     background-color: #2da44e;
     font-size: 16px;
-}
-bgimg{
-    filter: blur(8px);
 }
