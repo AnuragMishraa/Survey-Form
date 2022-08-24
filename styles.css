@@ -6,6 +6,7 @@ body {
     background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
     font-family: Verdana;
     text-align: center;
+    backdrop-filter: blur(5px);
         }
 form {
             background-color: e4e4e4;
